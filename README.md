@@ -1,2 +1,2 @@
 # MyFirstRepository
-Trying to learn GitHub
+Trying to learn GitHub version 2
